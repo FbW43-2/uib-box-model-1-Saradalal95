@@ -1,0 +1,18 @@
+.padding {
+  background-color: white;
+  width: 100%;
+  padding: 20px;
+  border: 2px solid black;
+  margin: 0 auto;s
+}
+.content {
+  background-color: azure;
+  width: 100%;
+  padding: 40px;
+  border: 2px dotted black;
+  margin: 0 auto;
+}
+div {
+  text-align: center;
+  font-weight: bold;
+}
